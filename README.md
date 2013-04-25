@@ -1354,3 +1354,9 @@ RangeError: Maximum call stack size exceeded
 npm ERR! Test failed.  See above for more details.
 npm ERR! not ok code 0
 ```
+
+
+FIX
+---
+
+Using mocha >= 1.9 fix this issue although it is still bugging my production code
