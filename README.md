@@ -3,6 +3,11 @@ Recursive deferral
 
 [![Build Status](https://travis-ci.org/fabriziomoscon/recursive-deferral.png?branch=master)](https://travis-ci.org/fabriziomoscon/recursive-deferral)
 
+FIX
+---
+https://github.com/visionmedia/mocha/pull/754/files
+Using mocha >= 1.8.2 
+
 try on ubuntu 12.10
 ---
 ```bash
@@ -1354,9 +1359,3 @@ RangeError: Maximum call stack size exceeded
 npm ERR! Test failed.  See above for more details.
 npm ERR! not ok code 0
 ```
-
-
-FIX
----
-
-Using mocha >= 1.8.2 fix this issue although it is still bugging my production code
