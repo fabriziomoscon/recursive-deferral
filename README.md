@@ -1,6 +1,8 @@
 Recursive deferral
 ==================
 
+[![Build Status](https://travis-ci.org/fabriziomoscon/recursive-deferral.png?branch=master)](https://travis-ci.org/fabriziomoscon/recursive-deferral)
+
 try on ubuntu 12.10
 ---
 ```bash
