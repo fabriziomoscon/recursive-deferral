@@ -1359,4 +1359,4 @@ npm ERR! not ok code 0
 FIX
 ---
 
-Using mocha >= 1.9 fix this issue although it is still bugging my production code
+Using mocha >= 1.8.2 fix this issue although it is still bugging my production code
